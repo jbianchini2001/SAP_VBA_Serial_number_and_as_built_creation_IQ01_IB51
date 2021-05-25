@@ -1,4 +1,4 @@
-# SAP_VBA_Serial_number_and_as_built_creation_IQ01_IB51
+# Serial number and installed base data load (IQ01, IB51 and IB52)
 <b>Objective: </b> an automated process to create serial numbers and assign them to an installed base (as built).
 
 <b>How to run it</b>: 
